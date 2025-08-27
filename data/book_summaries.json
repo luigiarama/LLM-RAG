@@ -1,0 +1,444 @@
+[
+  {
+    "title": "1984",
+    "summary_short": "A dystopian society under total surveillance and propaganda; a man's quiet rebellion for truth and freedom.",
+    "themes": [
+      "dystopia",
+      "surveillance",
+      "freedom",
+      "control",
+      "truth"
+    ],
+    "summary_full": "George Orwell's '1984' depicts a totalitarian regime led by Big Brother, where citizens live under constant surveillance and language itself is weaponized to limit thought. Winston Smith, a minor Party member, quietly questions the regime and pursues a forbidden love, hoping to reclaim his individuality. The novel explores power, manipulation, and the fragility of truth."
+  },
+  {
+    "title": "The Hobbit",
+    "summary_short": "A comfort-loving hobbit is swept into a quest with dwarves to reclaim a treasure from a dragon.",
+    "themes": [
+      "friendship",
+      "adventure",
+      "courage",
+      "fantasy",
+      "self-discovery"
+    ],
+    "summary_full": "Bilbo Baggins, a hobbit who enjoys a quiet life, is recruited by Gandalf and twelve dwarves to steal back their treasure from Smaug the dragon. On the journey Bilbo outwits trolls, meets elves, faces goblins, and discovers a magic ring that turns him invisible. He grows from an anxious homebody into a clever, brave hero who changes the fate of his companions."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "summary_short": "A child witnesses racial injustice and moral courage in the American South.",
+    "themes": [
+      "justice",
+      "empathy",
+      "racism",
+      "coming-of-age",
+      "family"
+    ],
+    "summary_full": "Harper Lee's novel follows Scout Finch as her father, lawyer Atticus Finch, defends a Black man wrongly accused of raping a white woman. Through Scout's eyes, the book examines prejudice, conscience, and compassion in a segregated town, showing how empathy can resist injustice."
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "summary_short": "A disenchanted teen wanders New York, searching for authenticity and meaning.",
+    "themes": [
+      "adolescence",
+      "alienation",
+      "identity",
+      "grief"
+    ],
+    "summary_full": "Holden Caulfield recounts a turbulent few days after being expelled from prep school. Detesting 'phoniness,' he drifts through New York City, longing to protect innocence—especially his sister Phoebe's. The novel explores loss, loneliness, and the messy path to adulthood."
+  },
+  {
+    "title": "Brave New World",
+    "summary_short": "A technologically engineered utopia hides the cost of comfort and conformity.",
+    "themes": [
+      "dystopia",
+      "technology",
+      "conformity",
+      "pleasure",
+      "freedom"
+    ],
+    "summary_full": "Aldous Huxley's world state designs humans for specific roles and maintains order through pleasure, conditioning, and the drug soma. When an outsider challenges the system, the novel probes whether happiness without freedom is worth the price of humanity."
+  },
+  {
+    "title": "The Name of the Wind",
+    "summary_short": "A gifted orphan recounts his rise toward legend in a world of magic and music.",
+    "themes": [
+      "fantasy",
+      "ambition",
+      "identity",
+      "resilience",
+      "knowledge"
+    ],
+    "summary_full": "Patrick Rothfuss presents Kvothe—a prodigy who survives tragedy, studies at a magical university, learns the arcane 'Name of the Wind,' and seeks the truth behind the Chandrian. Blending myth, music, and mystery, the story reflects on fame, story-telling, and memory."
+  },
+  {
+    "title": "The Book Thief",
+    "summary_short": "In Nazi Germany, a girl steals books and finds solace, narrated by Death.",
+    "themes": [
+      "war",
+      "friendship",
+      "words",
+      "courage",
+      "loss"
+    ],
+    "summary_full": "Markus Zusak's novel follows Liesel Meminger, who discovers the power of words while her foster family hides a Jewish man. Amid bombings and persecution, books become lifelines of resistance and hope."
+  },
+  {
+    "title": "Dune",
+    "summary_short": "A noble house battles for a desert planet and a prophetic destiny.",
+    "themes": [
+      "politics",
+      "ecology",
+      "religion",
+      "destiny",
+      "power"
+    ],
+    "summary_full": "Frank Herbert's 'Dune' centers on Paul Atreides whose family takes control of Arrakis, the only source of the spice melange. Betrayal forces Paul into the desert where he embraces a transformative destiny with the Fremen. The book intertwines resource politics, ecology, and prophecy."
+  },
+  {
+    "title": "The Little Prince",
+    "summary_short": "A poetic tale about love, loss, and seeing with the heart.",
+    "themes": [
+      "friendship",
+      "imagination",
+      "childhood",
+      "love",
+      "wisdom"
+    ],
+    "summary_full": "Antoine de Saint-Exupéry's novella recounts a pilot meeting a boy from another planet. Through encounters with whimsical characters, the story challenges adult priorities and celebrates simple, truthful seeing."
+  },
+  {
+    "title": "The Road",
+    "summary_short": "A father and son journey through a bleak, post-apocalyptic world.",
+    "themes": [
+      "survival",
+      "parenthood",
+      "hope",
+      "morality"
+    ],
+    "summary_full": "Cormac McCarthy writes a sparse, haunting odyssey as a father protects his son while moving toward the coast. Amid ash and scarcity, they cling to 'carrying the fire'—a fragile ethic of goodness."
+  },
+  {
+    "title": "The Lord of the Rings",
+    "summary_short": "A perilous quest to destroy a ring of power and save Middle‑earth.",
+    "themes": [
+      "friendship",
+      "sacrifice",
+      "good vs evil",
+      "courage",
+      "fantasy"
+    ],
+    "summary_full": "J.R.R. Tolkien's epic follows Frodo and the Fellowship as they attempt to destroy the One Ring. Across battles and betrayals, ordinary people rise to heroism. It's a meditation on power, loyalty, and hope against darkness."
+  },
+  {
+    "title": "All Quiet on the Western Front",
+    "summary_short": "A soldier’s-eye view of WWI exposes the futility and trauma of war.",
+    "themes": [
+      "war",
+      "innocence",
+      "trauma",
+      "comradeship",
+      "disillusionment"
+    ],
+    "summary_full": "Erich Maria Remarque portrays Paul Bäumer and classmates who enlist with patriotic zeal only to confront the brutal reality of trench warfare. The novel strips away romantic notions of war, focusing on survival and the shattering of youth."
+  },
+    {
+    "title": "The Reason for God",
+    "summary_short": "A rational and pastoral defense of Christianity in a skeptical age.",
+    "themes": [
+      "apologetics",
+      "doubt",
+      "faith",
+      "culture",
+      "truth"
+    ],
+    "summary_full": "Timothy Keller addresses common objections to belief in God—such as the problem of evil, exclusivity, and science—arguing that Christianity is both intellectually credible and existentially satisfying, inviting readers to consider the plausibility of the Christian worldview."
+  },
+  {
+    "title": "Every Good Endeavor",
+    "summary_short": "How the gospel shapes our work and vocation in modern life.",
+    "themes": [
+      "vocation",
+      "work",
+      "purpose",
+      "service",
+      "integration"
+    ],
+    "summary_full": "Timothy Keller explores the meaning of work from a biblical perspective, showing how the gospel reframes ambition, success, and failure, and how Christians can pursue excellence and neighbor-love across any profession."
+  },
+  {
+    "title": "The Prodigal God",
+    "summary_short": "A fresh look at Jesus’ parable revealing the radical nature of grace.",
+    "themes": [
+      "grace",
+      "repentance",
+      "forgiveness",
+      "identity",
+      "love"
+    ],
+    "summary_full": "Using the parable of the two lost sons, Timothy Keller highlights how both the rule-breaker and the rule-keeper need God’s grace, inviting readers into the joy and freedom of the Father’s embrace."
+  },
+  {
+    "title": "The Freedom of Self-Forgetfulness",
+    "summary_short": "Living free from pride and insecurity through gospel identity.",
+    "themes": [
+      "humility",
+      "identity",
+      "gospel",
+      "pride",
+      "freedom"
+    ],
+    "summary_full": "Timothy Keller argues that true humility is not thinking less of yourself but thinking of yourself less, showing how the gospel frees us from the endless need for self-justification and comparison."
+  },
+  {
+    "title": "The Gospel According to Jesus",
+    "summary_short": "What Jesus taught about genuine discipleship and salvation.",
+    "themes": [
+      "discipleship",
+      "salvation",
+      "obedience",
+      "lordship",
+      "faith"
+    ],
+    "summary_full": "John MacArthur contends that authentic saving faith embraces Jesus as Lord, producing repentance and a transformed life, challenging easy-believism with rigorous biblical exegesis."
+  },
+  {
+    "title": "Strange Fire",
+    "summary_short": "A critical evaluation of abuses in the modern charismatic movement.",
+    "themes": [
+      "discernment",
+      "Holy Spirit",
+      "worship",
+      "truth",
+      "theology"
+    ],
+    "summary_full": "John MacArthur examines claims and practices he regards as unbiblical within charismatic circles, calling for worship anchored in Scripture and a reverent understanding of the Spirit’s work."
+  },
+  {
+    "title": "The Murder of Jesus",
+    "summary_short": "A theological and historical walk through Christ’s crucifixion.",
+    "themes": [
+      "atonement",
+      "sovereignty",
+      "redemption",
+      "passion week",
+      "prophecy"
+    ],
+    "summary_full": "John MacArthur traces the events leading to the cross, emphasizing the sovereign plan of God and the saving significance of Jesus’ death as the centerpiece of redemption."
+  },
+  {
+    "title": "The God Who Loves",
+    "summary_short": "Exploring the nature and scope of God’s love in Scripture.",
+    "themes": [
+      "love",
+      "holiness",
+      "justice",
+      "character of God",
+      "theology"
+    ],
+    "summary_full": "John MacArthur surveys biblical teaching on divine love, balancing it with God’s holiness and justice, and clarifying common misconceptions about sentimentality and tolerance."
+  },
+  {
+    "title": "Desiring God",
+    "summary_short": "Christian Hedonism: pursuing joy in God as the aim of life.",
+    "themes": [
+      "joy",
+      "worship",
+      "satisfaction",
+      "purpose",
+      "glory of God"
+    ],
+    "summary_full": "John Piper argues that God is most glorified in us when we are most satisfied in Him, unfolding a vision of the Christian life centered on delighting in God through every calling and circumstance."
+  },
+  {
+    "title": "Don’t Waste Your Life",
+    "summary_short": "A call to invest your life in what truly lasts.",
+    "themes": [
+      "purpose",
+      "sacrifice",
+      "mission",
+      "eternity",
+      "calling"
+    ],
+    "summary_full": "John Piper urges readers to reject trivial pursuits and live for the global glory of Christ, leveraging their gifts, careers, and suffering to make much of God."
+  },
+  {
+    "title": "Future Grace",
+    "summary_short": "How God’s future promises empower present obedience and joy.",
+    "themes": [
+      "faith",
+      "promise",
+      "holiness",
+      "perseverance",
+      "assurance"
+    ],
+    "summary_full": "John Piper shows that faith in God’s future grace breaks the power of sin and fear, providing motive and strength for everyday holiness and resilient joy."
+  },
+  {
+    "title": "Let the Nations Be Glad",
+    "summary_short": "The supremacy of God in missions and worship.",
+    "themes": [
+      "missions",
+      "worship",
+      "glory of God",
+      "evangelism",
+      "purpose"
+    ],
+    "summary_full": "John Piper argues that missions exist because worship doesn’t; the ultimate aim is the joyful worship of God among all peoples, grounded in God’s sovereignty and global promises."
+  },
+  {
+    "title": "Mere Christianity",
+    "summary_short": "A clear, reasoned case for core Christian belief.",
+    "themes": [
+      "apologetics",
+      "ethics",
+      "faith",
+      "reason",
+      "virtue"
+    ],
+    "summary_full": "C.S. Lewis distills the essentials of Christian doctrine and morality, presenting a lucid, imaginative defense of the faith for skeptics and believers alike."
+  },
+  {
+    "title": "The Screwtape Letters",
+    "summary_short": "Satirical letters from a senior demon to his nephew on tempting a human.",
+    "themes": [
+      "temptation",
+      "spiritual warfare",
+      "virtue",
+      "satire",
+      "discipleship"
+    ],
+    "summary_full": "C.S. Lewis uses wit and insight to expose subtle strategies of temptation, helping readers recognize spiritual pitfalls and cultivate humility and perseverance."
+  },
+  {
+    "title": "Knowing God",
+    "summary_short": "A devotional-theological classic on the character of God.",
+    "themes": [
+      "theology",
+      "devotion",
+      "attributes of God",
+      "wisdom",
+      "holiness"
+    ],
+    "summary_full": "J.I. Packer guides readers from knowing about God to truly knowing Him, exploring His attributes and the joy and reverence proper to a life with God."
+  },
+  {
+    "title": "The Cross of Christ",
+    "summary_short": "Why the cross stands at the center of Christian faith and life.",
+    "themes": [
+      "atonement",
+      "sacrifice",
+      "justice",
+      "love",
+      "discipleship"
+    ],
+    "summary_full": "John Stott presents a rigorous, pastoral account of the meaning of the cross—uniting divine justice and love—showing its implications for forgiveness, service, and mission."
+  },
+  {
+    "title": "Confessions",
+    "summary_short": "Augustine’s spiritual autobiography and search for truth.",
+    "themes": [
+      "conversion",
+      "memory",
+      "grace",
+      "desire",
+      "truth"
+    ],
+    "summary_full": "Augustine reflects on his restless pursuit of meaning and God’s persistent grace, blending narrative with philosophical and theological meditation."
+  },
+  {
+    "title": "The Cost of Discipleship",
+    "summary_short": "A challenge to embrace costly grace and follow Christ fully.",
+    "themes": [
+      "discipleship",
+      "obedience",
+      "grace",
+      "ethics",
+      "community"
+    ],
+    "summary_full": "Dietrich Bonhoeffer contrasts cheap grace with costly grace, calling believers to radical obedience to Jesus’ teaching, especially the Sermon on the Mount."
+  },
+  {
+    "title": "Meditations",
+    "summary_short": "Stoic reflections on virtue, resilience, and leadership.",
+    "themes": [
+      "stoicism",
+      "virtue",
+      "resilience",
+      "self-discipline",
+      "leadership"
+    ],
+    "summary_full": "Marcus Aurelius records practical wisdom for governing oneself—accepting fate, focusing on duty, and cultivating reason and kindness in daily life."
+  },
+  {
+    "title": "Man’s Search for Meaning",
+    "summary_short": "Finding purpose through suffering and responsibility.",
+    "themes": [
+      "meaning",
+      "suffering",
+      "resilience",
+      "logotherapy",
+      "hope"
+    ],
+    "summary_full": "Viktor Frankl recounts his Holocaust experience and outlines logotherapy, arguing that purpose—chosen even amid suffering—is essential to psychological survival."
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "summary_short": "How two systems of thought shape our judgments and choices.",
+    "themes": [
+      "cognitive biases",
+      "decision-making",
+      "psychology",
+      "behavioral economics",
+      "reasoning"
+    ],
+    "summary_full": "Daniel Kahneman explains the interplay between intuitive, rapid thinking and deliberate, slow analysis, revealing systematic biases and practical ways to decide better."
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "summary_short": "A sweeping narrative of human origins, culture, and power.",
+    "themes": [
+      "history",
+      "anthropology",
+      "culture",
+      "evolution",
+      "society"
+    ],
+    "summary_full": "Yuval Noah Harari traces Homo sapiens’ rise through cognitive, agricultural, and scientific revolutions, probing how shared myths organize societies and shape the future."
+  },
+  {
+    "title": "Educated",
+    "summary_short": "A memoir of self-invention through learning and courage.",
+    "themes": [
+      "education",
+      "family",
+      "identity",
+      "resilience",
+      "freedom"
+    ],
+    "summary_full": "Tara Westover recounts growing up in a survivalist family without formal schooling and her journey to higher education, wrestling with loyalty, truth, and independence."
+  },
+  {
+    "title": "Atomic Habits",
+    "summary_short": "Tiny changes that compound into remarkable results.",
+    "themes": [
+      "habits",
+      "behavior change",
+      "systems",
+      "productivity",
+      "identity"
+    ],
+    "summary_full": "James Clear presents a practical framework—cue, craving, response, reward—to build good habits and break bad ones, focusing on systems and identity-based change."
+  },
+  {
+    "title": "Deep Work",
+    "summary_short": "Rules for focused success in a distracted world.",
+    "themes": [
+      "focus",
+      "productivity",
+      "craftsmanship",
+      "attention",
+      "discipline"
+    ],
+    "summary_full": "Cal Newport argues that the ability to concentrate without distraction is a superpower, offering strategies to cultivate deep work and produce high-value output."
+  }
+]
